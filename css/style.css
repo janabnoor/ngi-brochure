@@ -10,7 +10,6 @@ body {
 	position: relative;
 }
 
-
 #particles-js {
     position: absolute;
     top: 0;
@@ -29,12 +28,7 @@ body {
     position: relative;
     z-index: 0;	
 
-	
-
-
-
 }
-
 
 .page1, .page2 {
     width: 100%;
